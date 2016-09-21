@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Locify</string>
+    <string name="save_button_text">SAVE</string>
+    <string name="view_all_button_text">View All</string>
+    <string name="last_locations_text">Last Locations</string>
+    <string name="location_1_text">Location 1</string>
+    <string name="location_2_text">Location 2</string>
+    <string name="location_3_text">Location 3</string>
+    <string name="temperature_text_view">Temperature</string>
+    <string name="condition_text_view">Condition</string>
+    <string name="location_text_view">Location</string>
+    <string name="settings" />
+</resources>
